@@ -1978,7 +1978,7 @@ nav a:hover {
   padding-right: 60px;
   border-radius: 25px;
   background: transparent;
-  border: 1px solid #e0003b;
+  border: 1px solid #F7CAC9;
   color: #222222;
   display: inline-block;
   font-weight: 500;
@@ -2009,7 +2009,7 @@ nav a:hover {
 }
 
 .primary-btn:hover {
-  background: #e0003b;
+  background: #F7CAC9;
   color: #fff;
 }
 
@@ -2029,11 +2029,11 @@ nav a:hover {
 
 .primary-btn.white:hover {
   background: #fff;
-  color: #e0003b;
+  color: #F7CAC9;
 }
 
 .primary-btn.white:hover span {
-  color: #e0003b;
+  color: #F7CAC9;
 }
 
 .banner-area {
